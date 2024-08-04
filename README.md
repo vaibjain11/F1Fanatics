@@ -1,6 +1,6 @@
 # F1 Fanatics
 
-F1 Fanatics is a web application designed for Formula 1 enthusiasts to explore team standings, driver statistics, and race information. The app provides a user-friendly interface to access the latest data from the world of Formula 1 racing.
+F1 Fanatics is a web application designed for Formula 1 enthusiasts to explore team standings, driver statistics, and race information. The app provides a user-friendly interface to access the latest data from the world of Formula 1 racing. You can find the live website here: https://f1fanatics.vercel.app/
 
 ## Tech Stack
 
