@@ -14,7 +14,6 @@ The F1 Fanatics app is built using the following technologies:
 - **Tailwind CSS**: A utility-first CSS framework that enables rapid UI development with a focus on responsiveness and customization.
 - **Axios**: A promise-based HTTP client for making API requests to fetch data from external sources.
 - **Node.js**: A JavaScript runtime that allows for server-side scripting, enabling the use of JavaScript for backend development.
-- **Vercel Analytics**: A tool for monitoring and analyzing user interactions within the application, providing insights into performance and usage.
 
 ## Features
 
